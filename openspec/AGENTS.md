@@ -69,6 +69,7 @@ After deployment, create separate PR to:
 - [ ] Read relevant specs in `specs/[capability]/spec.md`
 - [ ] Check pending changes in `changes/` for conflicts
 - [ ] Read `openspec/project.md` for conventions
+- [ ] **Check ADRs in `adr/` directory** for architectural decisions and patterns
 - [ ] Run `openspec list` to see active changes
 - [ ] Run `openspec list --specs` to see existing capabilities
 
